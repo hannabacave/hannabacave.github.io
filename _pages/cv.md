@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-## DOCTORATE IN STATISTICS
+## PhD IN STATISTICS
 **Thesis Title:** Extensions of (Semi-)Hidden Markov Models and Algorithms to Estimate the Dynamics of (Meta)populations under Partial Observability.  
 **Supervisors:** Nathalie PEYRARD (MIAT, INRAE), Pierre-Olivier CHEPTOU (CEFE, CNRS), Nikolaos LIMNIOS (LMAC, UTC).  
 **Defense Date:** November 18, 2024.  
