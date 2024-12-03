@@ -2,7 +2,7 @@
 title: "Non-parametric Observation-Driven hidden Markov models"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-30-paper1
+permalink: /publication/2024-11-30-paper2
 excerpt: #
 date: 2024-11-30
 venue: 'Communications in Statistics - Theory and Methods'

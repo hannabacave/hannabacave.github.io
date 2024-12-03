@@ -3,7 +3,7 @@ title: "Interacting Partially Observable DBN to model the dynamics of partially 
 metapopulations : opportunities and open challenges"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-11-paper2
+permalink: /publication/2024-09-11-paper5
 excerpt: 'This paper is not published, it has only been submitted to the journal for the time being. 
 The url corresponds to the associated archive.'
 date: 2024-09-11
