@@ -27,7 +27,7 @@ author:
   bio              : "Just graduated with a PhD, I'm a young statistician looking for a post-doc."
   location         : "France"
   employer         : "INRAE, MIAT"
-  uri              : "https://miat.inrae.fr/"
+  uri              : #
   email            : "hanna.bacave@inrae.fr" 
 
   # Academic websites
