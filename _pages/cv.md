@@ -43,7 +43,8 @@ TEACHING EXPERIENCE
 ===
 - **Lectures/Tutorials in Algebra and Analysis for L1 Physics-Chemistry (UT3)** - 30 hours, Semester 2, 2022.  
 - **Lectures/Tutorials in Statistics for L2 Biology (UT3)** - 32.5 hours, Semester 2, 2022.  
-- **Lectures/Tutorials in Introduction to Statistics for 1st-year students (IUT Tech de Co)** - 35 hours, Semester 1, 2024. 
+- **Lectures/Tutorials in Introduction to Statistics for 1st-year students (IUT Tech de Co)** - 35 hours, Semester 1, 2024.
+ 
 **Location:** University and IUT - Toulouse | January 2022 - December 2023
 
 STATISTICS INTERNSHIP
