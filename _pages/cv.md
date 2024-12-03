@@ -94,7 +94,7 @@ PUBLICATIONS
 ===
 - **Non-parametric OD-HMM,** *Communications in Statistics Theory and Methods* - forthcoming article.  
 - **Interacting Partially Observable DBN to model the dynamics of partially observable metapopulations: opportunities and open challenges,** *Theoretical Population Biology* - article under review.  
-- **Extensions of (Semi-)Hidden Markov Models and Algorithms to Estimate the Dynamics of (Meta)populations under Partial Observability** - Doctoral thesis, in progress.
+- **Extensions of (Semi-)Hidden Markov Models and Algorithms to Estimate the Dynamics of (Meta)populations under Partial Observability** - PhD thesis, in progress.
 
 
 
