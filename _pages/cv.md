@@ -37,15 +37,14 @@ BACHELOR'S DEGREE IN GENERAL MATHEMATICS
 ===
 
 **Program Name:** General Mathematics.  
-**Keywords:** algebra, analysis, topology, measure theory, calculus and differential equations, stochastic modeling, probability, and statistics.  
+**Keywords:** algebra, analysis, topology, measure theory, calculus and differential equations, stochastic modeling, probability, and statistics.  \n
 **Location:** Faculty of Science - Montpellier | September 2018 - August 2019
 
 TEACHING EXPERIENCE
 ===
 **Lectures/Tutorials in Algebra and Analysis for L1 Physics-Chemistry (UT3)** - 30 hours, Semester 2, 2022.  
 **Lectures/Tutorials in Statistics for L2 Biology (UT3)** - 32.5 hours, Semester 2, 2022.  
-**Lectures/Tutorials in Introduction to Statistics for 1st-year students (IUT Tech de Co)** - 35 hours, Semester 1, 2024.
-  
+**Lectures/Tutorials in Introduction to Statistics for 1st-year students (IUT Tech de Co)** - 35 hours, Semester 1, 2024. \n
 **Location:** University and IUT - Toulouse | January 2022 - December 2023
 
 STATISTICS INTERNSHIP
