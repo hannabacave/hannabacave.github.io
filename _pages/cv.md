@@ -36,7 +36,6 @@ MASTER'S DEGREE IN STATISTICS AND MANAGEMENT (DOUBLE DEGREE)
 
 BACHELOR'S DEGREE IN GENERAL MATHEMATICS
 ===
-
 **Program Name:** General Mathematics.  
 **Keywords:** algebra, analysis, topology, measure theory, calculus and differential equations, stochastic modeling, probability, and statistics. 
 **Location:** Faculty of Science - Montpellier \| September 2018 - August 2019
@@ -57,8 +56,9 @@ STATISTICS INTERNSHIP
 
 - Analysis of customer complaints. Cross-referencing complaints with Linky meter data and mapping results.  
   **Methods used:** dimension reduction (PCA, MCA), neural networks (NLP), mapping.  
-  **Supervisors:** Kévin GUILAUME, Xavier BRY.  
-**Location:** Enedis, DR Nord Midi-Pyrénées - Toulouse \| October 2020 - September 2021
+  **Supervisors:** Kévin GUILAUME, Xavier BRY.
+
+  **Location:** Enedis, DR Nord Midi-Pyrénées - Toulouse \| October 2020 - September 2021
 
 
 RESEARCH PROJECT IN DECISION STATISTICS
@@ -71,7 +71,6 @@ Optimal management policy calculation to maximize the yield of a forest exploita
 
 SKILLS
 ===
-
 - **Statistics:**  
   Selection and application of machine learning methods, automatic learning, and dimension reduction.  
   Modeling (theoretical formalization, expert-driven construction, and theoretical model analysis).  
