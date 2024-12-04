@@ -18,7 +18,7 @@ PhD IN STATISTICS
 **Supervisors:** Nathalie PEYRARD (MIAT, INRAE), Pierre-Olivier CHEPTOU (CEFE, CNRS), Nikolaos LIMNIOS (LMAC, UTC).  
 **Defense Date:** November 18, 2024.  
 **Keywords:** latent variable models, computational statistics, process statistics, HMM, dynamic Bayesian networks, population/metapopulation dynamics.  
-**Location:** INRAE, MIAT - Toulouse | October 2021 - November 2024
+**Location:** INRAE, MIAT - Toulouse \| October 2021 - November 2024
 
 MASTER'S DEGREE IN STATISTICS AND MANAGEMENT (DOUBLE DEGREE)
 ===
@@ -27,25 +27,27 @@ MASTER'S DEGREE IN STATISTICS AND MANAGEMENT (DOUBLE DEGREE)
 **Program Name:** Mathematics for Information and Decision (MIND).  
 **Keywords:** time series, latent variable models, machine learning, deep learning, probability, computational statistics.
 
+
 **IAE (Institute of Business Administration) Degree:**  
 **Program Name:** Statistics for Information and Decision Support (SIAD).  
-**Keywords:** micro/macro-economics, marketing, project management, machine learning, management, databases.  
+**Keywords:** micro/macro-economics, marketing, project management, machine learning, management, databases. 
 
-**Location:** Faculty of Science and IAE - Montpellier | September 2019 - August 2021
+**Location:** Faculty of Science and IAE - Montpellier \| September 2019 - August 2021
 
 BACHELOR'S DEGREE IN GENERAL MATHEMATICS
 ===
 
 **Program Name:** General Mathematics.  
-**Keywords:** algebra, analysis, topology, measure theory, calculus and differential equations, stochastic modeling, probability, and statistics.  \n
-**Location:** Faculty of Science - Montpellier | September 2018 - August 2019
+**Keywords:** algebra, analysis, topology, measure theory, calculus and differential equations, stochastic modeling, probability, and statistics. 
+**Location:** Faculty of Science - Montpellier \| September 2018 - August 2019
 
 TEACHING EXPERIENCE
 ===
 **Lectures/Tutorials in Algebra and Analysis for L1 Physics-Chemistry (UT3)** - 30 hours, Semester 2, 2022.  
 **Lectures/Tutorials in Statistics for L2 Biology (UT3)** - 32.5 hours, Semester 2, 2022.  
-**Lectures/Tutorials in Introduction to Statistics for 1st-year students (IUT Tech de Co)** - 35 hours, Semester 1, 2024. \n
-**Location:** University and IUT - Toulouse | January 2022 - December 2023
+**Lectures/Tutorials in Introduction to Statistics for 1st-year students (IUT Tech de Co)** - 35 hours, Semester 1, 2024.
+
+**Location:** University and IUT - Toulouse \| January 2022 - December 2023
 
 STATISTICS INTERNSHIP
 ====
@@ -56,7 +58,7 @@ STATISTICS INTERNSHIP
 - Analysis of customer complaints. Cross-referencing complaints with Linky meter data and mapping results.  
   **Methods used:** dimension reduction (PCA, MCA), neural networks (NLP), mapping.  
   **Supervisors:** Kévin GUILAUME, Xavier BRY.  
-**Location:** Enedis, DR Nord Midi-Pyrénées - Toulouse | October 2020 - September 2021
+**Location:** Enedis, DR Nord Midi-Pyrénées - Toulouse \| October 2020 - September 2021
 
 
 RESEARCH PROJECT IN DECISION STATISTICS
@@ -64,7 +66,7 @@ RESEARCH PROJECT IN DECISION STATISTICS
 Optimal management policy calculation to maximize the yield of a forest exploitation subject to fires.  
 **Topics covered:** Markov decision processes, optimization algorithms.  
 **Supervisor:** Benoîte de SAPORTA.  
-**Location:** Faculty of Science - Montpellier | February 2020 - June 2020
+**Location:** Faculty of Science - Montpellier \| February 2020 - June 2020
 
 
 SKILLS
