@@ -14,15 +14,6 @@
   margin-bottom: 1em;
 
   background-color: #f5f5f5; // Ajout d'une couleur de fond
-  color: #333; // Couleur du texte par défaut
-  padding: 20px; // Ajout d'espacement interne
-  border: 1px solid #ccc; // Ajout d'une bordure
-  border-radius: 10px; // Coins arrondis
-  transition: background-color 0.3s ease; // Transition pour effet au survol
-
-  &:hover {
-    background-color: #eaeaea; // Couleur au survol
-  }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
@@ -50,7 +41,6 @@
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
-    color: #444; // Couleur des titres
   }
 
   h3, h4 {
@@ -58,10 +48,9 @@
   }
 
   p, li {
-    font-family: 'Arial', sans-serif; // Police personnalisée
-    font-size: 16px; // Taille du texte ajustée
+    font-family: $sans-serif;
+    font-size: $type-size-6;
     line-height: 1.5;
-    color: #666; // Couleur du texte
   }
 
   img {
@@ -74,7 +63,6 @@
 
   background-color: #fff; // Fond différent pour la barre latérale droite
   padding: 15px;
-  border-left: 2px solid #ddd; // Bordure pour séparer visuellement
 
   @include breakpoint($large) {
     position: relative;
