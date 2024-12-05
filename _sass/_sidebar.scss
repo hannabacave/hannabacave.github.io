@@ -61,7 +61,7 @@
 .sidebar__right {
   margin-bottom: 1em;
 
-  background-color: #fff; // Fond différent pour la barre latérale droite
+  background-color: #f5f5f5; // Fond différent pour la barre latérale droite
   padding: 15px;
 
   @include breakpoint($large) {
