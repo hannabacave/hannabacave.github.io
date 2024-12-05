@@ -25,6 +25,7 @@
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
+     margin-left: 0;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
@@ -121,7 +122,7 @@
 }
 
 .author__name {
-  margin: 0;
+    margin-left: 1em;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -141,7 +142,7 @@
 }
 
 .author__pronouns {
-  margin: 0;
+    margin-left: 1em;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -150,7 +151,7 @@
 }
 
 .author__bio {
-  margin: 0;
+    margin-left: 1em;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -203,7 +204,7 @@
   @include breakpoint($large) {
     display: block;
     position: relative;
-    margin: 0;
+      margin-left: 1em;
     padding: 0;
     border: 0;
     background: transparent;
