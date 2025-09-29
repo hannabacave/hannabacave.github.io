@@ -11,6 +11,15 @@ redirect_from:
 
 ---
 
+POST-DOC IN STATISTICS
+===
+
+**Supervisors:** Anne GOELZER (MIAT, INRAE), Véronique LETORT (MICS, CentraleSupelec)   
+**Keywords:** biology, estimation algorithm, hierarchical modelization, computational statistics, exploratory statistics.   
+**Location:** CentraleSupelec, MICS - Gif-sur-Yvette \| April 2025 - 
+
+
+
 PhD IN STATISTICS
 ===
 
